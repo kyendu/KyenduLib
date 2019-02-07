@@ -1,2 +1,2 @@
 # KyenduLib
-A Java Game Development Library
+This is a very basic java game development library. While it's not yet finished it can still be used as a main framework for game development. While I highly suggest you use high end libraries like LibGDX or whatever. This was made for developers that want to make games that are good but the thing is I haven't implemented it for Android or Mac yet. If you know how to do that please commit changes of my code.
